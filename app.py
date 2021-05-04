@@ -1,5 +1,5 @@
 import sys
-from yeristasyonu1 import Ui_MainWindow 
+from interface import Ui_MainWindow 
 from PyQt5 import QtWidgets , QtCore , QtGui
 import serial.tools.list_ports
 
